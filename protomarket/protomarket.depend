@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588983960 source:e:\users\public\john\documents\c projects\protomarket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
