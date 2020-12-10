@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584044606 source:e:\users\public\john\documents\c projects\compoundinterest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
