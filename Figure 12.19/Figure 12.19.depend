@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587245893 source:e:\users\public\john\documents\c projects\figure 12.19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
